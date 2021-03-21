@@ -2779,8 +2779,8 @@ a.scroll-down-arrow {
 
 .portfolio-box-1 {
     position: relative;
-    float: left;
-    width: 33.3333333333%;
+    float:none;
+    width: 50%;
     display: inline-block;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
