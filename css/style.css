@@ -8910,6 +8910,9 @@ button.bg-black:focus {
   padding-top: 3rem !important;
 }
 
+.pt-6 {
+  padding-top: 4rem !important;
+}
 .pr-5,
 .px-5 {
   padding-right: 3rem !important;
@@ -11610,4 +11613,27 @@ figure:hover+span {
   background-image:url(../assects/two_singles.png);
   background-position: center;
   background-size:cover;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+  z-index: 10;
+}
+
+.text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
+.nav-right {
+  float:"right"
 }
