@@ -40,7 +40,7 @@
         #cboxSlideshow{position:absolute; bottom:4px; right:30px; color:#0092ef;}
 
 		#cboxPrevious:before{content:'\f104';font-size:22px;}
-        #cboxPrevious{position: relative;position:absolute;bottom:10px; left:50%;margin-left:-62px;background:rgba(40,43,48,1); font-family: 'FontAwesome';  color:#fff;width:40px; height:40px;font-size:0;line-height:40px;
+        #cboxPrevious{position: relative;position:absolute;bottom:10px; left:50%;margin-left:-62px;background:rgba(40,43,48,1);  color:#fff;width:40px; height:40px;font-size:0;line-height:40px;
     -webkit-transition: all 300ms linear;
     -moz-transition: all 300ms linear;
     -o-transition: all 300ms linear;
@@ -49,7 +49,7 @@
         #cboxPrevious:hover{outline:none;background:#fff;color:#212121;}
 		
 		#cboxNext:before{content:'\f105';font-size:22px;}
-        #cboxNext{position: relative;position:absolute;bottom:10px; left:50%;margin-left:22px;background:rgba(40,43,48,1); font-family: 'FontAwesome';  color:#fff;width:40px; height:40px;font-size:0;line-height:40px;
+        #cboxNext{position: relative;position:absolute;bottom:10px; left:50%;margin-left:22px;background:rgba(40,43,48,1);  color:#fff;width:40px; height:40px;font-size:0;line-height:40px;
     -webkit-transition: all 300ms linear;
     -moz-transition: all 300ms linear;
     -o-transition: all 300ms linear;
@@ -58,7 +58,7 @@
         #cboxNext:hover{outline:none;background:#fff;color:#212121;}		
 				
 		#cboxClose:before{content:'\f00d';font-size:18px;}
-        #cboxClose{position: relative;position:absolute;bottom:10px; left:50%;margin-left:-20px;background:rgba(40,43,48,1); font-family: 'FontAwesome';  color:#fff;width:40px; height:40px;font-size:0;line-height:40px;
+        #cboxClose{position: relative;position:absolute;bottom:10px; left:50%;margin-left:-20px;background:rgba(40,43,48,1);  color:#fff;width:40px; height:40px;font-size:0;line-height:40px;
     -webkit-transition: all 300ms linear;
     -moz-transition: all 300ms linear;
     -o-transition: all 300ms linear;

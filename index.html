@@ -144,6 +144,12 @@ integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOn
             </div>
         </div>
         <div id="contact" class="container p-5">
+            <div data-aos="fade-up" data-aos-delay="200">
+                <div class="section-header-text">
+                    <h5 class="clsComFont25">Contact</h5>
+                    <div class="line-header"></div>
+                </div>
+            </div>
             <div class="row">
                 <div class="col-md-3 mb-3 mb-md-0" data-aos="fade-up">
                     <div class="card py-4">
@@ -222,6 +228,11 @@ integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOn
                 singleItem: true
             });
             AOS.init();
+        });
+    </script>
+    <script>
+        $('.navbar-collapse a').click(function(){
+            $(".navbar-collapse").collapse('hide');
         });
     </script>
     </body>
